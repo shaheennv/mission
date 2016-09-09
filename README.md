@@ -1,1 +1,1 @@
-[IOS Screenshot](screenshots/screenshot.png)
+![IOS Screenshot](screenshots/screenshot.png)
