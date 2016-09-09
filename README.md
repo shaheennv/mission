@@ -1,1 +1,1 @@
-[GitHub Logo](/screenshot/screenshot.png)
+[GitHub Logo](/screenshots/screenshot.png)
